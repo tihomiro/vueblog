@@ -1,0 +1,4 @@
+{
+    "apiToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly92dWVibG9nYXBpLnRlc3QvYXBpL2F1dGgvbG9naW4iLCJpYXQiOjE1MzA3MjI1NDQsImV4cCI6MTUzMDg5NTM0NCwibmJmIjoxNTMwNzIyNTQ0LCJqdGkiOiIyOWl3ODN0VFRINWw1cFBIIn0.3-jJpnkigV-egNQYscSMlXPbgGb95UT2znnuEY2BoW8",
+    "apiUrl": "http://vueblogapi.test/api/"
+}
