@@ -4,7 +4,7 @@
 
 This repo contains the code that was code live in the meetup held on July 4th 2018 at BIT Belgrade [https://www.meetup.com/bit-tech/events/252226206/](https://www.meetup.com/bit-tech/events/252226206/).
 
-Slides: 
+Slides: [Single Page Apps With A Headless CMS And Vue.js](https://github.com/tihomiro/vueblog/blob/master/Single%20Page%20Apps%20With%20A%20Headless%20CMS%20And%20Vue.js.pdf)
 
 References:
 [Photon CMS](https://photoncms.com/)
