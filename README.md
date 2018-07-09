@@ -14,6 +14,9 @@ This repo contains the code that was code live in the meetup held on July 4th 20
 
 ### References
 [Photon CMS](https://photoncms.com/)
+
 [Photon CMS API Documentation](https://docs.photoncms.com/)
+
 [Vue.js](https://vuejs.org/)
+
 [Vue.js CLI](https://cli.vuejs.org/)
