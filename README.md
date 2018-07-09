@@ -2,7 +2,7 @@
 
 ### A Live Coding Demo of building SPA
 
-This repo contains the code that was code live in the meetup held on July 4th 2018 at BIT Belgrade [https://www.meetup.com/bit-tech/events/252226206/](https://www.meetup.com/bit-tech/events/252226206/).
+This repo contains the code that was coded live during the meetup I hosted on July 4th 2018 at BIT Belgrade [https://www.meetup.com/bit-tech/events/252226206/](https://www.meetup.com/bit-tech/events/252226206/).
 
 ### Slides
 
